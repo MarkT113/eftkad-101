@@ -10,6 +10,7 @@ import 'package:dropdown_button2/dropdown_button2.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:animated_custom_dropdown/custom_dropdown.dart';
 
+var x = 400;
 var db;
 var isAdmin = false;
 var isClassAdmin = false;
